@@ -1,3 +1,7 @@
 data/
 Untitled.ipynb
 .ipynb_checkpoints/
+
+# R gitignore
+.RData
+.Rhistory
